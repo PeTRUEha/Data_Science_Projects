@@ -13,6 +13,8 @@ numpy = "*"
 matplotlib = "*"
 scikit-learn = "*"
 jupyter = "*"
+xgboost = "*"
+hyperopt = "*"
 
 [requires]
 python_version = "3.8"
